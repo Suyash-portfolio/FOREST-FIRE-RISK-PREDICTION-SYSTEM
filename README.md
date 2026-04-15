@@ -151,6 +151,7 @@ python main.py
 ## 📬 Contact
 
 For queries or collaboration:
+
 📧 [suyashhadole14@gmail.com](mailto:suyashhadole14@gmail.com)
 
 📧 [handerushikesh66@gmail.com](mailto:handerushikesh66@gmail.com)
