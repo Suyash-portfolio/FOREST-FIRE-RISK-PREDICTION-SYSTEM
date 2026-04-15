@@ -152,8 +152,11 @@ python main.py
 
 For queries or collaboration:
 📧 [suyashhadole14@gmail.com](mailto:suyashhadole14@gmail.com)
+
 📧 [handerushikesh66@gmail.com](mailto:handerushikesh66@gmail.com)
+
 📧 [yadneshtayade72@gmail.com](mailto:yadneshtayade72@gmail.com)
+
 📧 [sohamsabane48@gmail.com](mailto:sohamsabane48@gmail.com)
 
 ---
