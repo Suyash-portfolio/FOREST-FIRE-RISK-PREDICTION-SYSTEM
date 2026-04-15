@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Forest Fire Risk Prediction</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+</head>
+<body>
+  <main class="card">
+    <h1>Forest Fire Risk Prediction</h1>
+    <p class="subtitle">Enter weather values and predict fire risk.</p>
+
+    <form id="predict-form">
+      <label for="temp">Temperature (temp)</label>
+      <input type="number" id="temp" step="any" required />
+
+      <label for="RH">Humidity (RH)</label>
+      <input type="number" id="RH" step="any" required />
+
+      <label for="wind">Wind</label>
+      <input type="number" id="wind" step="any" required />
+
+      <label for="rain">Rain</label>
+      <input type="number" id="rain" step="any" required />
+
+      <button type="submit">Predict</button>
+    </form>
+
+    <div id="result" class="result"></div>
+  </main>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
