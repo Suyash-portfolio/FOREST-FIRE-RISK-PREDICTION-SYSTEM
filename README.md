@@ -33,13 +33,12 @@ The dataset includes the following features:
 * Rain → Rain amount
 * y → Fire occurrence (0 = No Fire, 1 = Fire)
 
-👉 As shown in your dataset slide (page 5), these features represent environmental conditions affecting fire risk 
 
 ---
 
 ## ⚙️ Technologies Used
 
-* Python 🐍
+* Python 
 * Scikit-learn
 * Pandas & NumPy
 * Matplotlib / Seaborn
@@ -54,8 +53,6 @@ The dataset includes the following features:
 * Random Forest
 * Gradient Boosting Classifier
 
-👉 These models are used to compare prediction accuracy (page 6) 
-
 ---
 
 ## 🔄 Project Workflow
@@ -66,7 +63,6 @@ The dataset includes the following features:
 4. Model Training
 5. Prediction
 
-👉 Workflow is shown in your implementation slide (page 6) 
 
 ---
 
@@ -75,8 +71,7 @@ The dataset includes the following features:
 * Coordinate scaling
 * Conversion to Latitude & Longitude
 * Point ID assignment
-
-👉 Explained in page 7 of your presentation 
+  
 
 ---
 
@@ -89,7 +84,6 @@ Model performance:
 * Random Forest → 56% Accuracy
 * Gradient Boosting → 53% Accuracy
 
-👉 Results shown in page 9 
 
 ---
 
@@ -99,7 +93,6 @@ Model performance:
 * Red points → High fire risk
 * Yellow points → No fire
 
-👉 Visualization shown in page 13 
 
 ---
 
@@ -118,7 +111,6 @@ System predicts fire occurrence based on input parameters.
 * Use real-time data (IoT / satellite)
 * Deploy as a web application
 
-👉 Mentioned in conclusion slide (page 14) 
 
 ---
 
