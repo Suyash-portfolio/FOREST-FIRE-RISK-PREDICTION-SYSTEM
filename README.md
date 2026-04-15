@@ -134,8 +134,9 @@ The project successfully demonstrates how machine learning can be used for **for
 ```bash
 git clone https://github.com/your-username/Forest-Fire-Risk-Prediction-System.git
 cd Forest-Fire-Risk-Prediction-System
-pip install -r requirements.txt
-python main.py
+pip install -r scripts/requirements.txt
+python scripts/train_model_save_model.py
+python webapp/app.py
 ```
 
 ---
