@@ -2,7 +2,7 @@ Team Contributions:
 Suyash Hadole (202401110055): Contributed to Trained the Machine Learning model, integrated it with the frontend, and managed as well as uploaded the complete project on GitHub.
 
 Rushikesh Hande (202401110056): Contributed to designing and creating the project poster.
-
+  
 Yadnesh Tayade (202401110057): Contributed to preparing the project report.
 
 Soham Sabane (202401110070): Contributed to creating the project presentation (PPT).
